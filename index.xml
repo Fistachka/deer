@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>deer</repo>
-  <version>v1.0.0</version>
+  <version>v1.0.1</version>
   <next number="1" owner="stolbitsa" repo="tonic"/>
   <readme>
     <ru>3cd55bcd030cdda08a6aaefa8e408e4ff231d5941052d1b3b62d6d1333d19461</ru>
@@ -14,13 +14,12 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
-    <video name="1t.mp4" size="284575" type="video/mp4" volume="0.5">5495abebb4a12a4562faadce3a66b1e73f1a491a67a73421665e7c7e0910b190</video>
+    <video name="1t.mp4" size="411906" type="video/mp4" volume="0.5">e36dd288134854d58f54e419c3e06de36d634c2a19232de0e187cd661a10f0e0</video>
     <notes>
-      <note number="1" values="1,18" ticks="46" durationTicks="51" ppq="96" velocity="0.843"/>
-      <note number="2" values="1,18" ticks="120" durationTicks="49" ppq="96" velocity="0.913"/>
-      <note number="3" values="1,18" ticks="238" durationTicks="50" ppq="96" velocity="0.913"/>
-      <note number="4" values="1,18" ticks="300" durationTicks="60" ppq="96" velocity="0.913"/>
-      <note number="5" values="1,18" ticks="383" durationTicks="51" ppq="96" velocity="0.913"/>
+      <note number="1" values="1" ticks="96" durationTicks="51" ppq="96" velocity="0.843"/>
+      <note number="2" values="1" ticks="120" durationTicks="49" ppq="96" velocity="0.913"/>
+      <note number="3" values="5" ticks="177" durationTicks="50" ppq="96" velocity="0.834"/>
+      <note number="4" values="18" ticks="259" durationTicks="60" ppq="96" velocity="0.913"/>
     </notes>
   </exercise>
   <exercise number="2">
