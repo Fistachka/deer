@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>deer</repo>
-  <version>v1.0.3</version>
+  <version>v1.0.4</version>
   <next number="1" owner="stolbitsa" repo="tonic"/>
   <readme>
-    <ru>3cd55bcd030cdda08a6aaefa8e408e4ff231d5941052d1b3b62d6d1333d19461</ru>
-    <en>60da77fe67b0a4891c40f0ad2e104c9657fd5a1caa93dfb47ce517b74716d4b6</en>
+    <ru>b5937b970579b1e268fcfec1c7e912240bf1036a05421d2031d94cbc313366ba</ru>
+    <en>0a5755ffd24859a8b1e2219ff8b5b0f074a3b312016ba3b78c4f34f1deb0e854</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
